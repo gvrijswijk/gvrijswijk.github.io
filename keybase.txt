@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/gvrijswijk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gerbenvanrijswijk.nl
+  * I am gvrijswijk (https://keybase.io/gvrijswijk) on keybase.
+  * I have a public key ASCbhI1_snTFrHYFgz45TPDsRs1Vm5RPZdUe3XPqXST4YAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012081d1f36d0fa9e1d1254d02eeec953f510de1012b53dbc4cf052fb64fe15ef25c0a",
+      "host": "keybase.io",
+      "kid": "01209b848d7fb274c5ac7605833e394cf0ec46cd559b944f65d51edd73ea5d24f8600a",
+      "uid": "315365bb5b247e8b0394b93e6d246919",
+      "username": "gvrijswijk"
+    },
+    "merkle_root": {
+      "ctime": 1521399192,
+      "hash": "f3d2e0191fad08ef5820c1955e3a2bf5a324891f1629e8604efebdb76dfc623797d7eb1af6e817b7dbdeabe2dde082e53ec8927235ccbc7f2ef762d895cfb6fc",
+      "hash_meta": "86f422665ebeae4b5e87bf7d898bbb326c144c2fea04c0b2aa80e1e1347bc395",
+      "seqno": 2253197
+    },
+    "service": {
+      "hostname": "gerbenvanrijswijk.nl",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521399248,
+  "expire_in": 504576000,
+  "prev": "32a64d554492c2cab7cbf1700139aa3a0b670938d850bb37d56083852878a94b",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm4SNf7J0xax2BYM+OUzw7EbNVZuUT2XVHt1z6l0k+GAKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODFkMWYzNmQwZmE5ZTFkMTI1NGQwMmVlZWM5NTNmNTEwZGUxMDEyYjUzZGJjNGNmMDUyZmI2NGZlMTVlZjI1YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWI4NDhkN2ZiMjc0YzVhYzc2MDU4MzNlMzk0Y2YwZWM0NmNkNTU5Yjk0NGY2NWQ1MWVkZDczZWE1ZDI0Zjg2MDBhIiwidWlkIjoiMzE1MzY1YmI1YjI0N2U4YjAzOTRiOTNlNmQyNDY5MTkiLCJ1c2VybmFtZSI6Imd2cmlqc3dpamsifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjEzOTkxOTIsImhhc2giOiJmM2QyZTAxOTFmYWQwOGVmNTgyMGMxOTU1ZTNhMmJmNWEzMjQ4OTFmMTYyOWU4NjA0ZWZlYmRiNzZkZmM2MjM3OTdkN2ViMWFmNmU4MTdiN2RiZGVhYmUyZGRlMDgyZTUzZWM4OTI3MjM1Y2NiYzdmMmVmNzYyZDg5NWNmYjZmYyIsImhhc2hfbWV0YSI6Ijg2ZjQyMjY2NWViZWFlNGI1ZTg3YmY3ZDg5OGJiYjMyNmMxNDRjMmZlYTA0YzBiMmFhODBlMWUxMzQ3YmMzOTUiLCJzZXFubyI6MjI1MzE5N30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJnZXJiZW52YW5yaWpzd2lqay5ubCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjEzOTkyNDgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMzJhNjRkNTU0NDkyYzJjYWI3Y2JmMTcwMDEzOWFhM2EwYjY3MDkzOGQ4NTBiYjM3ZDU2MDgzODUyODc4YTk0YiIsInNlcW5vIjoxOSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEASRdLigsKId005KI5MW10Xh3n0TztdsyNsnyQR/u1L7EtgQEa3D/LEoyoXPD/OXHtfA9unOnlYPM8IxJgEua0OqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg0jWUZlSlZAiV0FVYT7U+o5UAOtGVDzE/Nypfqa8+YgKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gvrijswijk
+
+==================================================================
